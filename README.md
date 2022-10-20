@@ -1,14 +1,14 @@
 # IBM-Project-2042-1658424437
 # Web Phishing Detection 
-# Team Members
+# Team Members :smiley:
 
-Team Leader : Nitish kumar M | [Assignments](https://github.com/IBM-EPBL/IBM-Project-2042-1658424437/tree/main/Assignments/Nitish%20kumar%20(Team%20Lead))
+Team Leader :point_right: Nitish kumar M | [Assignments](https://github.com/IBM-EPBL/IBM-Project-2042-1658424437/tree/main/Assignments/Nitish%20kumar%20(Team%20Lead))
 
-Team member 1 : Lokesh Kannan | [Assignments](https://github.com/IBM-EPBL/IBM-Project-2042-1658424437/tree/main/Assignments/Lokesh%20Kannan%20(TM_1))
+Team member 1 :point_right: Lokesh Kannan | [Assignments](https://github.com/IBM-EPBL/IBM-Project-2042-1658424437/tree/main/Assignments/Lokesh%20Kannan%20(TM_1))
 
-Team member 2 : Karthik raja | [Assignments](https://github.com/IBM-EPBL/IBM-Project-2042-1658424437/tree/main/Assignments/Karthik%20raja%20(TM_2))
+Team member 2 :point_right: Karthik raja | [Assignments](https://github.com/IBM-EPBL/IBM-Project-2042-1658424437/tree/main/Assignments/Karthik%20raja%20(TM_2))
 
-Team member 3 : Hariharasudhan | [Assignments](https://github.com/IBM-EPBL/IBM-Project-2042-1658424437/tree/main/Assignments/Hariharasudhan%20(TM_3))
+Team member 3 :point_right: Hariharasudhan | [Assignments](https://github.com/IBM-EPBL/IBM-Project-2042-1658424437/tree/main/Assignments/Hariharasudhan%20(TM_3))
 
 # What is Phishing?
 
@@ -24,7 +24,7 @@ These happen when major payment applications and websites are used as a ruse to 
 
 Generally, these attacks are performed through email, where a fake version of a trusted payment service asks a user to verify log in details and other identifying information. Usually, they claim that this is necessary in order to resolve an issue with the user's account. Often, these phishing attempts include a link to a fraudulent "spoof" page.
 
-# How do we protect against phishing attacks?
+# How do we protect against phishing attacks? :lock:
 
 ## `1.User education`
 One way to protect your organization from phishing is user education. Education should involve all employees. High-level executives are often a target. Teach them how to recognize a phishing email and what to do when they receive one. Simulation exercises are also key for assessing how your employees react to a staged phishing attack.
@@ -42,20 +42,21 @@ No single cybersecurity technology can prevent phishing attacks. Instead, organi
 
 # [Ideation Phase](https://github.com/IBM-EPBL/IBM-Project-2042-1658424437/tree/main/Project%20Design%20%26%20Planning/Ideation%20Phase)
 
-Literature Survey✅
-Brainstorm and Ideation✅
-Problem Statement✅
-Empathy Map✅
+- Literature Survey✅
+- Brainstorm and Ideation✅
+- Problem Statement✅
+- Empathy Map✅
 
 # [Project Design Phase-I](https://github.com/IBM-EPBL/IBM-Project-2042-1658424437/tree/main/Project%20Design%20%26%20Planning/Project%20Design%20Phase%201)
 
-Proposed Solution✅
-Problem Solution Fit✅
-Solution Architecture✅
+- Proposed Solution✅
+- Problem Solution Fit✅
+- Solution Architecture✅
 
 # [Project Design Phase-II](https://github.com/IBM-EPBL/IBM-Project-2042-1658424437/tree/main/Project%20Design%20%26%20Planning/Project%20Design%20Phase%20II)
 
-Data Flow Diagrams and User Stories✅
-Solution Requirement✅
-Technology Stack✅
-Customer Journey Map✅
+- Data Flow Diagrams and User Stories✅
+- Solution Requirement✅
+- Technology Stack✅
+- Customer Journey Map✅
+
