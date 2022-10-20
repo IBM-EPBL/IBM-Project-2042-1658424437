@@ -26,10 +26,10 @@ Generally, these attacks are performed through email, where a fake version of a 
 
 # How do we protect against phishing attacks?
 
-## 1.User education
+## `1.User education`
 One way to protect your organization from phishing is user education. Education should involve all employees. High-level executives are often a target. Teach them how to recognize a phishing email and what to do when they receive one. Simulation exercises are also key for assessing how your employees react to a staged phishing attack.
 
-## 2.Security technology
+## `2.Security technology`
 No single cybersecurity technology can prevent phishing attacks. Instead, organizations must take a layered approach to reduce the number of attacks and lessen their impact when they do occur. Network security technologies that should be implemented include email and web security, malware protection, user behavior monitoring, and access control.
 
 # Task :v:
