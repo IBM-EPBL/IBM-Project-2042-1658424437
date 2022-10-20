@@ -37,8 +37,8 @@ No single cybersecurity technology can prevent phishing attacks. Instead, organi
 # [Assignment](https://github.com/IBM-EPBL/IBM-Project-2042-1658424437/tree/main/Assignments)
 
 - Assignment 1 ✅
--* Assignment 2 ✅
--* Assignment 3 ✅
+- Assignment 2 ✅
+- Assignment 3 ✅
 
 # [Ideation Phase](https://github.com/IBM-EPBL/IBM-Project-2042-1658424437/tree/main/Project%20Design%20%26%20Planning/Ideation%20Phase)
 
