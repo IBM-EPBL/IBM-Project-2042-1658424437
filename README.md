@@ -25,10 +25,37 @@ These happen when major payment applications and websites are used as a ruse to 
 Generally, these attacks are performed through email, where a fake version of a trusted payment service asks a user to verify log in details and other identifying information. Usually, they claim that this is necessary in order to resolve an issue with the user's account. Often, these phishing attempts include a link to a fraudulent "spoof" page.
 
 # How do we protect against phishing attacks?
+
 ## 1.User education
 One way to protect your organization from phishing is user education. Education should involve all employees. High-level executives are often a target. Teach them how to recognize a phishing email and what to do when they receive one. Simulation exercises are also key for assessing how your employees react to a staged phishing attack.
 
 ## 2.Security technology
 No single cybersecurity technology can prevent phishing attacks. Instead, organizations must take a layered approach to reduce the number of attacks and lessen their impact when they do occur. Network security technologies that should be implemented include email and web security, malware protection, user behavior monitoring, and access control.
 
-# Task
+# Task :v:
+
+# [Assignment](https://github.com/IBM-EPBL/IBM-Project-2042-1658424437/tree/main/Assignments)
+
+Assignment 1 ✅
+Assignment 2 ✅
+Assignment 3 ✅
+
+# [Ideation Phase](https://github.com/IBM-EPBL/IBM-Project-2042-1658424437/tree/main/Project%20Design%20%26%20Planning/Ideation%20Phase)
+
+Literature Survey✅
+Brainstorm and Ideation✅
+Problem Statement✅
+Empathy Map✅
+
+# [Project Design Phase-I](https://github.com/IBM-EPBL/IBM-Project-2042-1658424437/tree/main/Project%20Design%20%26%20Planning/Project%20Design%20Phase%201)
+
+Proposed Solution✅
+Problem Solution Fit✅
+Solution Architecture✅
+
+# [Project Design Phase-II](https://github.com/IBM-EPBL/IBM-Project-2042-1658424437/tree/main/Project%20Design%20%26%20Planning/Project%20Design%20Phase%20II)
+
+Data Flow Diagrams and User Stories✅
+Solution Requirement✅
+Technology Stack✅
+Customer Journey Map✅
