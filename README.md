@@ -39,6 +39,7 @@ No single cybersecurity technology can prevent phishing attacks. Instead, organi
 - Assignment 1 ✅
 - Assignment 2 ✅
 - Assignment 3 ✅
+- Assignment 4 ✅
 
 # [Ideation Phase](https://github.com/IBM-EPBL/IBM-Project-2042-1658424437/tree/main/Project%20Design%20%26%20Planning/Ideation%20Phase)
 
@@ -60,3 +61,7 @@ No single cybersecurity technology can prevent phishing attacks. Instead, organi
 - Technology Stack✅
 - Customer Journey Map✅
 
+# [Project Planning](https://github.com/IBM-EPBL/IBM-Project-2042-1658424437/tree/main/Project%20Design%20%26%20Planning/Project%20Planning)
+
+- Milestone Activities✅
+- Sprint Delivery plan✅
