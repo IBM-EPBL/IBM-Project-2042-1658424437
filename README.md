@@ -65,3 +65,8 @@ No single cybersecurity technology can prevent phishing attacks. Instead, organi
 
 - Milestone Activities✅
 - Sprint Delivery plan✅
+
+# [Task And Progress](https://github.com/IBM-EPBL/IBM-Project-2042-1658424437/tree/main/Task%20And%20Progress)✅
+
+# [Final Deliverables](https://github.com/IBM-EPBL/IBM-Project-2042-1658424437/tree/main/Final%20Deliverables)✅
+
