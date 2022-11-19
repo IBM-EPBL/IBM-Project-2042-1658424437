@@ -16,3 +16,9 @@
 1.3. We have integrated it with our flask application to get scoring response.
 
 ![This is an image](https://github.com/IBM-EPBL/IBM-Project-2042-1658424437/blob/main/Task%20And%20Progress/Train%20The%20Model%20On%20IBM/Web%20Phishing%20Detection%20Scoring%20Response.png)
+
+## Sample Outputs
+
+![This is an image](https://github.com/IBM-EPBL/IBM-Project-2042-1658424437/blob/main/Project%20Development%20Phase/Sprint%204/sample%20output%201.png)
+
+![This is an image](https://github.com/IBM-EPBL/IBM-Project-2042-1658424437/blob/main/Project%20Development%20Phase/Sprint%204/sample%20output%202.png)
