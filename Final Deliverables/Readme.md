@@ -1,5 +1,3 @@
-# Sample Outputs
 
-![This is an image](https://github.com/IBM-EPBL/IBM-Project-2042-1658424437/blob/main/Project%20Development%20Phase/Sprint%204/sample%20output%201.png)
+https://user-images.githubusercontent.com/114349042/202868588-5fbaceb7-8a0c-4e26-81ac-62c648fc8a41.mp4
 
-![This is an image](https://github.com/IBM-EPBL/IBM-Project-2042-1658424437/blob/main/Project%20Development%20Phase/Sprint%204/sample%20output%202.png)
